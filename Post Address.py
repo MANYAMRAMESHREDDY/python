@@ -1,6 +1,9 @@
 #HELLO EVERY ONE THIS MANYAM RAMESH REDDY
 
 
+#This code main aim is courier addrees code
+
+
 Country=input("Country Name:")
 State=input("State Name:")
 District=input("District Name:")
